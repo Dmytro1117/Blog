@@ -1,4 +1,4 @@
-import{g as St,h as ua,i as la,k as da,n as yt,j as Q,l as Ht,m as fa,r as g,o as pa,p as ha}from"./index-ChApNCE-.js";function dn(t=St){const e=t===St?ua:la(t);return function(){const{store:n}=e();return n}}const ma=dn();function ya(t=St){const e=t===St?ma:dn(t);return function(){return e().dispatch}}const va=ya(),ga=()=>va(),xa=da,ba=yt.section`
+import{g as St,h as ua,i as la,k as da,n as yt,j as Q,l as Ht,m as fa,r as g,o as pa,p as ha}from"./index-CPGV1iVH.js";function dn(t=St){const e=t===St?ua:la(t);return function(){const{store:n}=e();return n}}const ma=dn();function ya(t=St){const e=t===St?ma:dn(t);return function(){return e().dispatch}}const va=ya(),ga=()=>va(),xa=da,ba=yt.section`
   width: 650px;
   padding: 20px;
   box-shadow: 4px 4px 8px #8888888e;
