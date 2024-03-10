@@ -1,4 +1,4 @@
-import{n as i}from"./Loader-CSXOwdxA.js";const n=i.p`
+import{n as i}from"./Loader-Hqq75eSl.js";const n=i.p`
   color: orange;
   padding: 10px;
   font-size: 44px;

@@ -1,1 +1,0 @@
-import{h as e,i as n,k as c,l as a}from"./index-CMXPep3Y.js";function r(t=e){const o=t===e?n:c(t);return function(){const{store:s}=o();return s}}const i=r();function p(t=e){const o=t===e?i:r(t);return function(){return o().dispatch}}const x=p(),S=()=>x(),d=a;export{S as a,d as u};
