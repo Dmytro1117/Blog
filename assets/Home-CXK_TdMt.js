@@ -1,4 +1,4 @@
-import{r as a,f as n,j as t}from"./index-B1MW1kmf.js";import{a as p,u as m}from"./hooks-Z6N-1SYi.js";import{S as x,B as c}from"./BlogForm-DHFdoH3c.js";import{n as i,L as d}from"./Loader-E8xeWz7N.js";const l=i.div`
+import{r as a,f as n,j as t}from"./index-MdN9Se5I.js";import{a as p,u as m}from"./hooks-ChJfguEz.js";import{S as x,B as c}from"./BlogForm-CAPpKnQ5.js";import{n as i,L as d}from"./Loader-C-fBH1B8.js";const l=i.div`
   color: rgba(31, 166, 224, 0.837);
   display: flex;
   flex-direction: column;
