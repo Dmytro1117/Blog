@@ -1,4 +1,4 @@
-import{j as i,N as o,r as e,O as a}from"./index-jU41MbT_.js";import{n as t,L as s}from"./Loader-Hqq75eSl.js";const d=t.footer`
+import{j as i,N as o,r as e,O as a}from"./index-B1MW1kmf.js";import{n as t,L as s}from"./Loader-E8xeWz7N.js";const d=t.footer`
   display: flex;
   align-items: center;
   justify-content: center;

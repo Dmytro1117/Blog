@@ -1,4 +1,4 @@
-import{j as ne,R as le,e as Rt,g as Mr}from"./index-jU41MbT_.js";import{n as lt}from"./Loader-Hqq75eSl.js";import{a as zr,u as Fr}from"./hooks-DnTnUKez.js";const Br=lt.section`
+import{j as ne,R as le,g as Rt,h as Mr}from"./index-B1MW1kmf.js";import{n as lt}from"./Loader-E8xeWz7N.js";import{a as zr,u as Fr}from"./hooks-Z6N-1SYi.js";const Br=lt.section`
   width: 650px;
   padding: 20px;
   box-shadow: 4px 4px 8px #8888888e;
