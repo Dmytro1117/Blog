@@ -1,4 +1,4 @@
-import{n as i}from"./Loader-C-fBH1B8.js";const n=i.p`
+import{n as i}from"./emotion-styled.browser.esm-BBCkfJeL.js";const n=i.p`
   color: orange;
   padding: 10px;
   font-size: 44px;
